@@ -4,4 +4,4 @@
 3. [zigbee](https://github.com/leduyhung/IOT_ANDROID/tree/master/zigbee)
 4. [IR](https://github.com/leduyhung/IOT_ANDROID/tree/master/ir)
 
-![IOT Image](https://github.com/leduyhung/IOT_ANDROID/tree/master/iot.jpg)
+![IOT Image](iot.jpg)
