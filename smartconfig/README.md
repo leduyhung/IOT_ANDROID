@@ -18,7 +18,7 @@
 - After that, IOT device exit smart config mode.
 
 ### Flow Diagram
-![IOT Image](smartconfig_flow_diagram.jpg)
+![IOT Image](smartconfig_flow_diagram.JPG)
 
 ### Source smartconfig for IOT Device
 - [arduino](https://github.com/espressif/arduino-esp32)
